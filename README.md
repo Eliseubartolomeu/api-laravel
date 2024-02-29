@@ -1,4 +1,4 @@
-<img src="img/apiFoto.png" align="right" width="300">
+<img src="public/img/apiFoto.png" align="right" width="300">
 
 # Projeto API Laravel
 
